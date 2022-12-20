@@ -1,0 +1,28 @@
+
+
+UX : experience utilisateur (zoning, wireframe)
+	
+	A attaquer le plus tot possible.
+
+	prototypage dynamique
+	
+	tragvailler sur l'ergonomie et l'usage.
+	
+	anticiper l'usage de l'utilisateur  . 
+
+UI : Interface utilisateur
+
+	aspect visuel et graphique
+	"css" du wireframe (mockup)
+
+hookcanvas
+pyramide de maslow
+
+loi de FITTS
+Loi de similarite
+effet von restdorff
+
+
+
+
+
